@@ -72,7 +72,7 @@ body
   background-color: #fff; 
   padding: 40px 0;
 }
-.card 
+.card
 {
     width: 150px;
     text-align: center;
@@ -119,7 +119,7 @@ body
     justify-content: center;
 }
 
-.card
+.card2
 {
     background-color: white;
     flex-direction: column;
@@ -128,6 +128,7 @@ body
     width: 300px;
     border-radius: 10px;
     border: 2px solid #32b9cd;
+    text-align: center;
 }
 
 .card h2
